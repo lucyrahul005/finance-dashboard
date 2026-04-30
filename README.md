@@ -251,5 +251,5 @@ This project demonstrates my ability to:
 -> The focus was on creating a clean, functional, and user-friendly dashboard aligned with the requirements of the Zorvyn frontend assessment.
 
 ## Author 
-Nikhil Geddam
-geddamnikhil407@gmail.com
+Rahul Vardhanapu
+lucyrahul004@gmail.com
